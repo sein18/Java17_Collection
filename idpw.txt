@@ -1,0 +1,5 @@
+#id/pw
+#Fri Apr 22 13:40:39 KST 2022
+password=1234
+id=student
+name=park
